@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "ceba19a76584601cd61936d18a80148a"
+build_time: [1507483875, 33813000]
+inputs:
+  "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/ClarifaiCam/Clarifai.swift": [9223372036, 854775807]
+  "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/ClarifaiCam/ViewController.swift": [1507482863, 0]
+  "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/ClarifaiCam/AppDelegate.swift": [1507480155, 0]

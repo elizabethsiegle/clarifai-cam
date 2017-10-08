@@ -1,0 +1,6 @@
+framework module Pods_ClarifaiCam {
+  umbrella header "Pods-ClarifaiCam-umbrella.h"
+
+  export *
+  module * { export * }
+}

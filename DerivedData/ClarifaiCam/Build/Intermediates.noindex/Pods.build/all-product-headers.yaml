@@ -1,0 +1,299 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFAutoPurgingImageCache.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFImageDownloader.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Clarifai/Clarifai.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Clarifai-Swift.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Clarifai/Clarifai.framework/Headers/Clarifai-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Clarifai-umbrella.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Target Support Files/Clarifai/Clarifai-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiApp.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiApp.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiConcept.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiConcept.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiConstants.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiCrop.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiCrop.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiGeo.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiGeo.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiImage.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiInput.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiInput.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiLocation.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiLocation.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiModel.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiModelVersion.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiModelVersion.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiOutput.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiOutput.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiOutputFace.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiOutputFace.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiOutputFocus.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiOutputFocus.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiOutputRegion.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiOutputRegion.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiSearchResult.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiSearchResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "ClarifaiSearchTerm.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ClarifaiSearchTerm.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+Clarifai.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/NSArray+Clarifai.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+Clarifai.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/NSDictionary+Clarifai.h"
+        },
+        {
+          'type': 'file',
+          'name': "ResponseSerializer.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Clarifai/Clarifai/Classes/ResponseSerializer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Clarifai/Clarifai.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Clarifai.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Pods_ClarifaiCam.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-ClarifaiCam-umbrella.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/Pods/Target Support Files/Pods-ClarifaiCam/Pods-ClarifaiCam-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_ClarifaiCam-Swift.h",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Pods_ClarifaiCam.framework/Headers/Pods_ClarifaiCam-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Products/Debug-iphonesimulator/Pods_ClarifaiCam.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lizziesiegle/Desktop/programming/ios/ClarifaiCam/DerivedData/ClarifaiCam/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-ClarifaiCam.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
